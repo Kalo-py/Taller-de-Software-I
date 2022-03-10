@@ -7,8 +7,8 @@ public class Alumno extends Persona {
 		super();
 	}
 
-	public Alumno(String matricula) {
-		super();
+	public Alumno(Integer ci, String nombre, String apellido, String email, String matricula) {
+		super(ci, nombre, apellido, email);
 		this.matricula = matricula;
 	}
 
