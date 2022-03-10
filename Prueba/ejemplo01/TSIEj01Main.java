@@ -17,6 +17,9 @@ public class TSIEj01Main {
 		else {
 			System.out.println("No es mayor de edad");
 		}
+		
+		System.out.println("Lo haces bien carlitoss");
+		System.out.println("No te rindas");
 	}
 
 }
