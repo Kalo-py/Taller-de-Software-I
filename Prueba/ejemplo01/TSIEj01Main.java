@@ -19,7 +19,7 @@ public class TSIEj01Main {
 		}
 		
 		System.out.println("Lo haces bien carlitoss");
-		System.out.println("No te rindas");
+
 	}
 
 }
